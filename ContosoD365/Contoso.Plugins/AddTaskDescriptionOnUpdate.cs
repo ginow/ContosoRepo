@@ -37,10 +37,12 @@ namespace Contoso.Plugins
 
                 try
                 {
+                    tracingService.Trace("Depth= " + context.Depth);
                     // Plug-in business logic goes here. 
                     if (context.Depth <=1)
                     {
                         entity["description"] = "updated from plugin";
+                        service.Update(entity);
                         tracingService.Trace("updated description");
                     }                    
                 }
