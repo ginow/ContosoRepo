@@ -1,0 +1,9 @@
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Contoso.Plugins.dll
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Contoso.Plugins.pdb
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.csproj.CopyComplete
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.dll
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.pdb
