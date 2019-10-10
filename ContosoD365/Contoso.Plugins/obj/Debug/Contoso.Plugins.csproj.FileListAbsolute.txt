@@ -7,3 +7,4 @@ C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Microsoft.Xrm.
 C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.csproj.CopyComplete
 C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.dll
 C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.pdb
+C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\obj\Debug\Contoso.Plugins.csprojAssemblyReference.cache

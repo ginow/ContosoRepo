@@ -20,11 +20,12 @@ namespace Contoso.Plugins
             // Obtain the execution context from the service provider.  
             IPluginExecutionContext context = (IPluginExecutionContext)
                 serviceProvider.GetService(typeof(IPluginExecutionContext));
-
+            tracingService.Trace("in execute method");
             // The InputParameters collection contains all the data passed in the message request.  
             if (context.InputParameters.Contains("Target") &&
                 context.InputParameters["Target"] is Entity)
             {
+                tracingService.Trace("context contains target");
                 // Obtain the target entity from the input parameters.  
                 Entity entity = (Entity)context.InputParameters["Target"];
 
@@ -36,7 +37,12 @@ namespace Contoso.Plugins
 
                 try
                 {
-                    // Plug-in business logic goes here.  
+                    // Plug-in business logic goes here. 
+                    if (context.Depth <=1)
+                    {
+                        entity["description"] = "updated from plugin";
+                        tracingService.Trace("updated description");
+                    }                    
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
@@ -46,7 +52,7 @@ namespace Contoso.Plugins
 
                 catch (Exception ex)
                 {
-                    tracingService.Trace("FollowUpPlugin: {0}", ex.ToString());
+                    tracingService.Trace("AddTaskDescriptionOnUpdate: {0}", ex.ToString());
                     throw;
                 }
             }
