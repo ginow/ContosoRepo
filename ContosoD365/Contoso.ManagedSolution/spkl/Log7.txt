@@ -1,0 +1,14 @@
+20:05:21	<FileToPath map="Contoso.Plugins\**\*.*" to="..\..\Plugins\bin\**" />
+20:05:21	Map folder 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Contoso.Plugins\' does not exist.
+20:05:21	Map folder 'C:\Users\ginoj\source\repos\ContosoD365\Plugins\bin\' does not exist.
+20:05:21	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
+20:05:21	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+20:05:21	
+20:05:21	Packing C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package to C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\managedsolution_1_0_0_0.zip
+20:05:21	
+20:05:21	Processing Component: Entities
+20:05:21	 - Task
+20:05:21	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\Entity.xml
+20:05:21	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}_managed.xml
+20:05:21	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\RibbonDiff.xml
+20:05:21	Processing Component: Roles

@@ -87,6 +87,7 @@
     <Content Include="package\Other\Relationships\sample_teamproject.xml" />
     <Content Include="package\Other\Solution.xml" />
     <Content Include="package\WebResources\Contoso_\Javascript\TestJavaScript.js.data.xml" />
+    <Content Include="managedsolution_1_0_0_0.zip" />
     <None Include="packages.config" />
     <Content Include="spkl\unpack.bat" />
     <Content Include="spkl\pack+import.bat" />

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities>
+    <Entity>
+      <Name LocalizedName="Task" OriginalName="">Task</Name>
+      <FormXml>
+        <forms type="main">
+          <systemform>
+            <formid>{16654191-19ad-48ca-9e46-c4b4fbdad76f}</formid>
+            <IntroducedVersion>6.0.0.0</IntroducedVersion>
+            <FormPresentation>1</FormPresentation>
+            <FormActivationState>1</FormActivationState>
+            <form>
+              <tabs>
+                <tab name="TASK_TAB" verticallayout="true" id="{ADFD103B-691E-4A92-B4CF-F844B645A1F7}" IsUserDefined="0" showlabel="false" expanded="true" ordinalvalue="0">
+                  <columns>
+                    <column width="67%" id="0">
+                      <sections>
+                        <section name="Description" showlabel="true" showbar="false" locklevel="0" id="{bde07399-10a4-ddc1-ae5c-39b7ac6a0d7c}" IsUserDefined="0" layout="varwidth" columns="1" labelwidth="115" celllabelalignment="Left" celllabelposition="Left" height="auto" labelid="{3e311b53-86ab-4733-ac24-54eba6327ebd}" ordinalvalue="1">
+                          <rows>
+                            <row>
+                              <cell id="{6acb61b8-d386-5a7b-1d12-0d9437cd66be}" showlabel="true" colspan="1" auto="false" rowspan="15" ordinalvalue="10001" solutionaction="Added">
+                                <labels>
+                                  <label description="angulargrid" languagecode="1033" />
+                                </labels>
+                                <control id="IFRAME_angulargrid" classid="{FD2A7985-3187-444e-908D-6624B21F69C0}">
+                                  <parameters>
+                                    <Url>https://testenv.crm8.dynamics.com//WebResources/new_/html/index.html</Url>
+                                    <PassParameters>false</PassParameters>
+                                    <Security>false</Security>
+                                    <Scrolling>auto</Scrolling>
+                                    <Border>true</Border>
+                                    <ShowOnMobileClient>false</ShowOnMobileClient>
+                                  </parameters>
+                                </control>
+                                <events>
+                                  <event name="onload" application="false">
+                                    <dependencies />
+                                  </event>
+                                </events>
+                              </cell>
+                            </row>
+                          </rows>
+                        </section>
+                      </sections>
+                    </column>
+                  </columns>
+                </tab>
+              </tabs>
+              <Navigation solutionaction="Added">
+                <NavBar></NavBar>
+                <NavBarAreas>
+                  <NavBarArea Id="Info">
+                    <Titles>
+                      <Title LCID="1033" Text="Common" />
+                    </Titles>
+                  </NavBarArea>
+                  <NavBarArea Id="Sales">
+                    <Titles>
+                      <Title LCID="1033" Text="Sales" />
+                    </Titles>
+                  </NavBarArea>
+                  <NavBarArea Id="Service">
+                    <Titles>
+                      <Title LCID="1033" Text="Service" />
+                    </Titles>
+                  </NavBarArea>
+                  <NavBarArea Id="Marketing">
+                    <Titles>
+                      <Title LCID="1033" Text="Marketing" />
+                    </Titles>
+                  </NavBarArea>
+                  <NavBarArea Id="ProcessCenter">
+                    <Titles>
+                      <Title LCID="1033" Text="Process Sessions" />
+                    </Titles>
+                  </NavBarArea>
+                </NavBarAreas>
+              </Navigation>
+            </form>
+            <LocalizedNames>
+              <LocalizedName description="Task" languagecode="1033" />
+            </LocalizedNames>
+            <Descriptions>
+              <Description description="Updated default Task form." languagecode="1033" />
+            </Descriptions>
+          </systemform>
+        </forms>
+      </FormXml>
+      <RibbonDiffXml>
+        <CustomActions />
+        <Templates>
+          <RibbonTemplates Id="Mscrm.Templates"></RibbonTemplates>
+        </Templates>
+        <CommandDefinitions />
+        <RuleDefinitions>
+          <TabDisplayRules />
+          <DisplayRules />
+          <EnableRules />
+        </RuleDefinitions>
+        <LocLabels />
+      </RibbonDiffXml>
+    </Entity>
+  </Entities>
+  <Roles />
+  <Workflows />
+  <FieldSecurityProfiles />
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships>
+    <EntityRelationship Name="sample_challenge_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_challenge</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+    <EntityRelationship Name="sample_fundraiser_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>1.0.0.2</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_fundraiser</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+    <EntityRelationship Name="sample_idea_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_idea</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+    <EntityRelationship Name="sample_product_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>0.0.0.1</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_product</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+    <EntityRelationship Name="sample_review_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>0.0.0.1</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_review</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+    <EntityRelationship Name="sample_teamproject_Tasks">
+      <EntityRelationshipType>OneToMany</EntityRelationshipType>
+      <IsCustomizable>1</IsCustomizable>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsHierarchical>0</IsHierarchical>
+      <ReferencingEntityName>Task</ReferencingEntityName>
+      <ReferencedEntityName>sample_teamproject</ReferencedEntityName>
+      <CascadeAssign>Cascade</CascadeAssign>
+      <CascadeDelete>Cascade</CascadeDelete>
+      <CascadeReparent>Cascade</CascadeReparent>
+      <CascadeShare>Cascade</CascadeShare>
+      <CascadeUnshare>Cascade</CascadeUnshare>
+      <ReferencingAttributeName>RegardingObjectId</ReferencingAttributeName>
+      <RelationshipDescription>
+        <Descriptions>
+          <Description description="Choose the record that the task relates to." languagecode="1033" />
+        </Descriptions>
+      </RelationshipDescription>
+    </EntityRelationship>
+  </EntityRelationships>
+  <OrganizationSettings />
+  <optionsets />
+  <WebResources>
+    <WebResource>
+      <WebResourceId>{90fc7123-f5eb-e911-a812-000d3af270de}</WebResourceId>
+      <Name>Contoso_/Javascript/TestJavaScript.js</Name>
+      <DisplayName>Contoso_/Javascript/TestJavaScript.js</DisplayName>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/Contoso_JavascriptTestJavaScriptjs90FC7123-F5EB-E911-A812-000D3AF270DE</FileName>
+    </WebResource>
+  </WebResources>
+  <CustomControls />
+  <EntityDataProviders />
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>

@@ -1,0 +1,4 @@
+20:05:21	Reading mapping directives...
+20:05:21	Processing Component: Workflows
+20:05:21	Processing Component: FieldSecurityProfiles
+20:05:21	Processing Component: Templates
