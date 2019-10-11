@@ -1,0 +1,25 @@
+12:31:14	Deploying WebResources
+12:31:14	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources'
+12:32:13	Deploying WebResources
+12:32:13	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources'
+12:33:00	Deploying WebResources
+12:33:01	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources'
+12:33:02	Creating Webresource 'Contoso_\Javascript\TestJavaScript.js' -> 'Contoso_/Javascript/TestJavaScript.js'
+12:33:03	Adding to solution 'ContosoWebresourcesSolution'
+12:34:08	Deploying WebResources
+12:34:08	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources'
+12:34:09	Updating Webresource 'Contoso_\Javascript\TestJavaScript.js' -> 'Contoso_/Javascript/TestJavaScript.js'
+12:34:10	Adding to solution 'ContosoWebresourcesSolution'
+12:34:10	Deployed 1 webresource(s)
+12:34:10	Publishing 1 webresources...
+12:34:15	Publish complete.
+12:34:15	Processed 1 section(s)
+12:34:15	Processed 1 config(s)
+12:35:30	Downloading Webresources
+12:35:30	Searching for webresources in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\spkl\..'
+12:47:10	Downloading Webresources
+12:47:10	Searching for webresources in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\spkl\..'
+14:52:40	Downloading Webresources
+14:52:40	Searching for webresources in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\spkl\..'
+14:53:33	Downloading Webresources
+14:53:33	Searching for webresources in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\spkl\..'

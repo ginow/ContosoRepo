@@ -85,21 +85,14 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CrmPluginRegistrationAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\coretools\LicenseTerms.docx" />
     <Content Include="bin\coretools\CrmSvcUtil.exe.config" />
     <None Include="packages.config" />
-    <Content Include="spkl\unpack.bat" />
-    <Content Include="spkl\pack+import.bat" />
-    <Content Include="spkl\instrument-plugin-code.bat" />
-    <Content Include="spkl\earlybound.bat" />
     <Content Include="spkl\download-webresources.bat" />
-    <Content Include="spkl\deploy-workflows.bat" />
     <Content Include="spkl\deploy-webresources.bat" />
-    <Content Include="spkl\deploy-plugins.bat" />
     <Content Include="spkl.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
