@@ -1,0 +1,81 @@
+{
+    "webresources": [
+        {
+            /* 
+            Option - profile - Provide a comma delimitered list of profile names that can be referenced when calling spkl
+            */
+            "profile": "default,debug",
+
+            /*
+            Optional - root - Provide the relatative path of the webresources.
+            */
+            "root": "Contoso.Webresources/",
+
+            /*
+            Optional - solution - Add webresources to a solution when deploying
+            */
+            "solution": "ContosoWebresourcesSolution",
+
+            /*
+            Required - files - List the webresources to deploy relatative to the root of this file (or the the root parameter above)
+            */
+            "files": [
+                {
+                    "uniquename": "Contoso_/Javascript/TestJavaScript.js",
+                    "file": "Contoso_\\Javascript\\TestJavaScript.js",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    /*
+    The solutions section defines a solution that can be extracted to individual xml files to make
+    versioning of Dynamics metadata (entities, attributes etc) easier
+    */
+    "solutions": [
+      {
+        "profile": "default,debug",
+        /*
+            The unique name of the solution to extract, unpack, pack and import
+            */
+        "solution_uniquename": "ContosoWebresourcesSolution",
+        /*
+            The relative folder path to store the extracted solution metadata xml files
+            */
+        "packagepath": "package",
+        /*
+            The relative path name of the solution to pack into
+            */
+        "solutionpath": "solution_{0}_{1}_{2}_{3}.zip",
+        /*
+            Set to 'unmanaged' or 'managed' - default to 'unmanaged' if omitted
+            */
+        "packagetype": "unmanaged",
+        /*
+            Set to 'true' to increment the minor version number before importing from the xml files
+            */
+        "increment_on_import": false,
+
+        /*
+            Map code artefacts to the solution package folder
+            */
+        "map": [
+          {
+            "map": "path",
+            "from": "Contoso.Plugins\\**\\*.*",
+            "to": "..\\..\\Plugins\\bin\\**"
+          },
+          {
+            "map": "path",
+            "from": "Contoso.Webresources\\*.*",
+            "to": "..\\..\\Webresources\\Webresources\\**"
+          },
+          {
+            "map": "path",
+            "from": "Contoso.Webresources\\**\\*.*",
+            "to": "..\\..\\Webresources\\Webresources\\**"
+          }
+        ]
+      }
+    ]
+}
