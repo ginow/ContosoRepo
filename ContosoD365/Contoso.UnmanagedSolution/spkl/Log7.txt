@@ -1,0 +1,13 @@
+19:19:29	<FileToPath map="Contoso.Plugins\**\*.*" to="..\..\Plugins\bin\**" />
+19:19:29	Map folder 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Contoso.Plugins\' does not exist.
+19:19:29	Map folder 'C:\Users\ginoj\source\repos\ContosoD365\Plugins\bin\' does not exist.
+19:19:29	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\RibbonDiff.xml
+19:19:29	Processing Component: Roles
+19:19:29	Processing Component: Workflows
+19:19:29	Processing Component: FieldSecurityProfiles
+19:19:29	Processing Component: Templates
+19:19:29	Processing Component: EntityMaps
+19:19:29	Processing Component: EntityRelationships
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships.xml

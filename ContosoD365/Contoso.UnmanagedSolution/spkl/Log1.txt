@@ -12,3 +12,15 @@
 19:12:24	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
 19:12:24	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmp8D84.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 19:12:25	Processed 1 config(s)
+19:19:28	Packing & Import Solution
+19:19:28	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+19:19:29	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+19:19:29	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+19:19:29	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+19:19:29	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+19:19:29	Solution Packed to 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip'
+19:19:29	Importing solution 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip'...
+19:19:33	.19:19:35	.19:19:37	.19:19:39	.19:19:41	.19:19:44	.19:19:46	.19:19:48	.19:26:56	.19:26:59	.19:27:01	
+Solution Import Completed. Now publishing....
+19:37:38	Solution Publish Completed
+19:37:38	Processed 1 config(s)

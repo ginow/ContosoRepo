@@ -17,3 +17,6 @@
 19:12:25	Processing Component: optionsets
 19:12:25	Processing Component: WebResources
 19:12:25	 - Contoso_/Javascript/TestJavaScript.js
+19:19:29	Processing Component: Entities
+19:19:29	 - Task
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\Entity.xml

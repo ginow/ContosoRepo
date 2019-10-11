@@ -74,6 +74,15 @@
     <Content Include="bin\coretools\CrmSvcUtil.xml" />
     <Content Include="bin\coretools\LicenseTerms.docx" />
     <Content Include="bin\coretools\CrmSvcUtil.exe.config" />
+    <Content Include="package\Entities\Task\Entity.xml" />
+    <Content Include="package\Entities\Task\FormXml\card\{5e9725e4-5449-4363-8c1c-5ae71767af34}.xml" />
+    <Content Include="package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml" />
+    <Content Include="package\Entities\Task\FormXml\main\{b62ce022-cc0f-4c8c-bb29-21948f70dc74}.xml" />
+    <Content Include="package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml" />
+    <Content Include="package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml" />
+    <Content Include="package\Entities\Task\FormXml\quick\{1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc}.xml" />
+    <Content Include="package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml" />
+    <Content Include="package\Entities\Task\RibbonDiff.xml" />
     <Content Include="package\Other\Customizations.xml" />
     <Content Include="package\Other\Relationships.xml" />
     <Content Include="package\Other\Solution.xml" />
@@ -82,6 +91,7 @@
     <Content Include="spkl\unpack.bat" />
     <Content Include="spkl\pack+import.bat" />
     <Content Include="spkl.json" />
+    <Content Include="solution_1_0_0_0.zip" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\coretools\Microsoft.Crm.Sdk.Proxy.dll" />

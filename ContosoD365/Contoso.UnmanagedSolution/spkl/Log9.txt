@@ -12,3 +12,9 @@
 19:12:25	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Customizations.xml
 19:12:25	Writing: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Solution.xml
 19:12:25	
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\card\{5e9725e4-5449-4363-8c1c-5ae71767af34}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{b62ce022-cc0f-4c8c-bb29-21948f70dc74}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc}.xml
+19:19:29	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml

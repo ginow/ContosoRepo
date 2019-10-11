@@ -1,0 +1,5 @@
+19:19:29	Reading mapping directives...
+19:19:29	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+19:19:29	
+19:19:29	Packing C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package to C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip
+19:19:29	
