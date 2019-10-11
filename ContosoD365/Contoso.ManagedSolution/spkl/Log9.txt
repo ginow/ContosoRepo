@@ -1,0 +1,7 @@
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_challenge.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_fundraiser.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_idea.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_product.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_review.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_teamproject.xml
+19:56:28	Creating: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships.xml

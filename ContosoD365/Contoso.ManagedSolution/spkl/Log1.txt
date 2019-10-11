@@ -1,0 +1,7 @@
+19:55:26	Unpacking solution
+19:55:26	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\spkl\..'
+19:55:26	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution'
+19:56:28	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+19:56:28	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+19:56:28	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmpE5D3.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package" /packagetype:managed /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+19:56:28	Processed 1 config(s)
