@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Plugins", "Contoso.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Webresources", "..\Contoso.Webresources\Contoso.Webresources.csproj", "{6A45108E-4D8B-4F55-A5F0-5EAE59F38F6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.UnmanagedSolution", "..\Contoso.UnmanagedSolution\Contoso.UnmanagedSolution.csproj", "{2007E274-9920-4AF4-8F4B-02874DAF0BF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6A45108E-4D8B-4F55-A5F0-5EAE59F38F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A45108E-4D8B-4F55-A5F0-5EAE59F38F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A45108E-4D8B-4F55-A5F0-5EAE59F38F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2007E274-9920-4AF4-8F4B-02874DAF0BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2007E274-9920-4AF4-8F4B-02874DAF0BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2007E274-9920-4AF4-8F4B-02874DAF0BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2007E274-9920-4AF4-8F4B-02874DAF0BF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
