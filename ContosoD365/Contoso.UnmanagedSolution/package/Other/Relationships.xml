@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships>
+  <EntityRelationship Name="sample_challenge_Tasks" />
+  <EntityRelationship Name="sample_fundraiser_Tasks" />
+  <EntityRelationship Name="sample_idea_Tasks" />
+  <EntityRelationship Name="sample_product_Tasks" />
+  <EntityRelationship Name="sample_review_Tasks" />
+  <EntityRelationship Name="sample_teamproject_Tasks" />
+</EntityRelationships>

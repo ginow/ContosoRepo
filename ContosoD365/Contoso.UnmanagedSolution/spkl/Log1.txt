@@ -1,0 +1,14 @@
+18:34:05	Unpacking solution
+18:34:05	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+18:34:06	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+18:35:24	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+18:35:24	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+18:35:24	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmpAF1B.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+18:35:25	Processed 1 config(s)
+19:11:13	Unpacking solution
+19:11:13	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+19:11:14	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+19:12:24	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+19:12:24	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+19:12:24	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmp8D84.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+19:12:25	Processed 1 config(s)
