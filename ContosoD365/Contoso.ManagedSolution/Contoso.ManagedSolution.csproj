@@ -87,6 +87,7 @@
     <Content Include="package\Other\Relationships\sample_teamproject.xml" />
     <Content Include="package\Other\Solution.xml" />
     <Content Include="package\PluginAssemblies\ContosoPlugins-8669EC24-1718-4BB4-AEE7-6563742694B6\ContosoPlugins.dll.data.xml" />
+    <Content Include="package\SdkMessageProcessingSteps\{0276ed03-5feb-e911-a812-000d3af270de}.xml" />
     <Content Include="package\WebResources\Contoso_\Javascript\TestJavaScript.js.data.xml" />
     <Content Include="managedsolution_1_0_0_0.zip" />
     <None Include="packages.config" />

@@ -9,3 +9,11 @@
 17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_teamproject.xml
 17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships.xml
 17:47:29	Processing Component: optionsets
+22:07:19	
+22:07:19	Packing C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package to C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\managedsolution_1_0_0_0.zip
+22:07:19	
+22:07:19	 - Contoso_/Javascript/TestJavaScript.js
+22:07:19	Mapping: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\WebResources\Contoso_\Javascript\TestJavaScript.js to C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\Contoso_\Javascript\TestJavaScript.js
+22:07:19	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\Contoso_\Javascript\TestJavaScript.js
+22:07:19	Processing Component: SolutionPluginAssemblies
+22:07:19	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\PluginAssemblies\ContosoPlugins-8669EC24-1718-4BB4-AEE7-6563742694B6\ContosoPlugins.dll.data.xml
