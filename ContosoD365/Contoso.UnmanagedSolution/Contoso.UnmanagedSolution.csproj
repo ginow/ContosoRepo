@@ -86,6 +86,7 @@
     <Content Include="package\Other\Customizations.xml" />
     <Content Include="package\Other\Relationships.xml" />
     <Content Include="package\Other\Solution.xml" />
+    <Content Include="package\PluginAssemblies\ContosoPlugins-8669EC24-1718-4BB4-AEE7-6563742694B6\ContosoPlugins.dll.data.xml" />
     <Content Include="package\WebResources\Contoso_\Javascript\TestJavaScript.js.data.xml" />
     <None Include="packages.config" />
     <Content Include="spkl\unpack.bat" />

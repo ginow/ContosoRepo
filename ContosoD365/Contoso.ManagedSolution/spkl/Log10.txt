@@ -1,0 +1,7 @@
+17:47:29	Processing Component: Workflows
+17:47:29	Processing Component: FieldSecurityProfiles
+17:47:29	Processing Component: Templates
+17:47:29	Processing Component: EntityMaps
+17:47:29	Processing Component: EntityRelationships
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_challenge.xml
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_fundraiser.xml

@@ -1,0 +1,14 @@
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\RibbonDiff.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\Entity.xml
+17:23:35	Skipping 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\WebResources\Contoso_\Javascript\TestJavaScript.js' as it matches a mapping directive
+17:23:35	Processing Component: EntityDataProviders
+17:43:43	Processing Component: Entities
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc}.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\RibbonDiff.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\Entity.xml
+17:43:43	Processing Component: Roles
+17:43:43	Processing Component: Workflows
+17:43:43	Processing Component: FieldSecurityProfiles
+17:43:43	Processing Component: Templates
+17:43:43	Processing Component: EntityMaps

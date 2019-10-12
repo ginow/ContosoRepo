@@ -60,20 +60,11 @@
             Map code artefacts to the solution package folder
             */
         "map": [
-          {
-            "map": "path",
-            "from": "Contoso.Plugins\\**\\*.*",
-            "to": "..\\..\\Plugins\\bin\\**"
-          },
+          
           {
             "map": "path",
             "from": "Webresources\\*.*",
             "to": "..\\..\\Contoso.Webresources\\**"
-          },
-          {
-            "map": "path",
-            "from": "Webresources\\Contoso_\\**\\*.*",
-            "to": "..\\..\\Contoso.Webresources\\Contoso_\\**"
           }
         ]
       }

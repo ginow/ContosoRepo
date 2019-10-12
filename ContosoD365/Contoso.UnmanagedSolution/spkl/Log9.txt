@@ -1,0 +1,32 @@
+12:57:04	
+12:57:04	Extracting C:\Users\ginoj\AppData\Local\Temp\tmp46D0.tmp to C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package
+12:57:04	
+12:57:04	 - Task
+12:57:04	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\card\{5e9725e4-5449-4363-8c1c-5ae71767af34}.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml
+17:23:35	Processing Component: Roles
+17:23:35	Processing Component: Workflows
+17:23:35	Processing Component: FieldSecurityProfiles
+17:23:35	Processing Component: Templates
+17:23:35	Processing Component: EntityMaps
+17:23:35	Processing Component: EntityRelationships
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_challenge.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_fundraiser.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_idea.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_product.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_review.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_teamproject.xml
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships.xml
+17:23:35	Processing Component: optionsets
+17:23:35	Processing Component: WebResources
+17:23:35	 - Contoso_/Javascript/TestJavaScript.js
+17:23:35	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\WebResources\Contoso_\Javascript\TestJavaScript.js.data.xml
+17:43:43	Read-only files will be over-written or deleted.
+17:43:43	
+17:43:43	Extracting C:\Users\ginoj\AppData\Local\Temp\tmpC27E.tmp to C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package
+17:43:43	
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{b62ce022-cc0f-4c8c-bb29-21948f70dc74}.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml
+17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml

@@ -1,0 +1,11 @@
+17:47:29	
+17:47:29	Extracting C:\Users\ginoj\AppData\Local\Temp\tmp3435.tmp to C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package
+17:47:29	
+17:47:29	Processing Component: Entities
+17:47:29	 - Task
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_idea.xml
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_product.xml
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_review.xml
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_teamproject.xml
+17:47:29	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships.xml
+17:47:29	Processing Component: optionsets

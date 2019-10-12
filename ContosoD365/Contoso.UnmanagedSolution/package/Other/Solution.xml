@@ -82,6 +82,7 @@
     <RootComponents>
       <RootComponent type="1" schemaName="task" behavior="0" />
       <RootComponent type="61" schemaName="Contoso_/Javascript/TestJavaScript.js" behavior="0" />
+      <RootComponent type="91" id="{8669ec24-1718-4bb4-aee7-6563742694b6}" schemaName="Contoso.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=30aeff48e9279e62" behavior="0" />
     </RootComponents>
     <MissingDependencies>
       <MissingDependency>

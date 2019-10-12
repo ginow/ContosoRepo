@@ -1,0 +1,28 @@
+12:52:28	Unpacking solution
+12:52:28	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+12:52:28	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+12:53:51	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+12:53:51	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+12:53:51	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmp57A7.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+12:53:52	Processed 1 config(s)
+12:56:42	Unpacking solution
+12:56:42	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+12:56:42	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+12:57:03	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+12:57:03	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+12:57:03	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmp46D0.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+12:57:04	Processed 1 config(s)
+17:22:18	Unpacking solution
+17:22:18	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+17:22:19	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+17:23:34	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+17:23:34	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+17:23:34	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmp51CA.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+17:23:35	Processed 1 config(s)
+17:42:51	Unpacking solution
+17:42:51	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+17:42:51	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+17:43:43	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+17:43:43	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+17:43:43	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmpC27E.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+17:43:43	Processed 1 config(s)

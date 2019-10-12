@@ -1,0 +1,33 @@
+12:53:51	Reading mapping directives...
+12:53:51	<FileToPath map="Contoso.Plugins\**\*.*" to="..\..\Plugins\bin\**" />
+12:53:51	Map folder 'C:\Users\ginoj\source\repos\ContosoD365\Plugins\bin\' does not exist.
+12:53:51	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
+12:53:51	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+12:53:51	Read-only files will be over-written or deleted.
+12:53:51	
+12:53:51	Extracting C:\Users\ginoj\AppData\Local\Temp\tmp57A7.tmp to C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package
+12:53:51	
+12:53:51	Processing Component: Entities
+12:53:51	 - Task
+12:53:51	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\card\{5e9725e4-5449-4363-8c1c-5ae71767af34}.xml
+12:53:51	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{b62ce022-cc0f-4c8c-bb29-21948f70dc74}.xml
+12:53:51	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc}.xml
+12:53:52	Processing Component: Roles
+12:53:52	Processing Component: Workflows
+12:53:52	Processing Component: FieldSecurityProfiles
+12:53:52	Processing Component: Templates
+12:53:52	Processing Component: EntityMaps
+12:53:52	Processing Component: EntityRelationships
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_challenge.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_fundraiser.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_idea.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_product.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_review.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_teamproject.xml
+12:53:52	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships.xml
+12:53:52	Processing Component: optionsets
+12:53:52	Processing Component: WebResources
