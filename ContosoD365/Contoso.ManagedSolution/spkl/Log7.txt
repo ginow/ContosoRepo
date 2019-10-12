@@ -15,3 +15,16 @@
 17:47:29	<FileToFile map="PluginAssemblies\**\ContosoPlugins.dll" to="..\..\Contoso.Plugins\bin\**\Contoso.Plugins.dll" />
 17:47:29	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
 17:47:29	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+18:09:49	<FileToFile map="PluginAssemblies\**\ContosoPlugins.dll" to="..\..\Contoso.Plugins\bin\**\Contoso.Plugins.dll" />
+18:09:49	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
+18:09:49	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+18:09:49	
+18:09:49	Packing C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package to C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\managedsolution_1_0_0_0.zip
+18:09:49	
+18:09:49	Processing Component: Entities
+18:09:49	 - Task
+18:09:49	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\Entity.xml
+18:09:49	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}_managed.xml
+18:09:49	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Entities\Task\RibbonDiff.xml
+18:09:50	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.ManagedSolution\package\Other\Relationships\sample_teamproject.xml
+18:09:50	Processing Component: optionsets
