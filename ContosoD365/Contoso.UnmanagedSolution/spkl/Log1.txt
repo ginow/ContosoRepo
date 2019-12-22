@@ -26,3 +26,15 @@
 17:43:43	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
 17:43:43	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\ginoj\AppData\Local\Temp\tmpC27E.tmp" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
 17:43:43	Processed 1 config(s)
+10:45:32	Packing & Import Solution
+10:45:32	Searching for packager config in 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\spkl\..'
+10:45:32	Using Config 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution'
+10:45:32	Target C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools
+10:45:32	Map xml created at 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+10:45:32	Running C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Pack /zipfile:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip" /folder:"C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package" /packagetype:unmanaged /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+10:45:32	Solution Packed to 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip'
+10:45:32	Importing solution 'C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip'...
+10:45:36	.10:45:38	.10:45:40	.10:45:42	.10:45:44	.10:45:46	.10:45:48	.10:45:50	.10:45:53	.10:45:55	
+Solution Import Completed. Now publishing....
+10:46:08	Solution Publish Completed
+10:46:08	Processed 1 config(s)

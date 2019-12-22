@@ -17,3 +17,22 @@
 17:43:43	<FileToFile map="PluginAssemblies\**\ContosoPlugins.dll" to="..\..\Contoso.Plugins\bin\**\Contoso.Plugins.dll" />
 17:43:43	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
 17:43:43	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+10:45:32	<FileToFile map="PluginAssemblies\**\ContosoPlugins.dll" to="..\..\Contoso.Plugins\bin\**\Contoso.Plugins.dll" />
+10:45:32	<FileToPath map="Webresources\*.*" to="..\..\Contoso.Webresources\**" />
+10:45:32	<FileToPath map="Webresources\Contoso_\**\*.*" to="..\..\Contoso.Webresources\Contoso_\**" />
+10:45:32	
+10:45:32	Packing C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package to C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\solution_1_0_0_0.zip
+10:45:32	
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\RibbonDiff.xml
+10:45:32	Processing Component: Roles
+10:45:32	Processing Component: Workflows
+10:45:32	Processing Component: FieldSecurityProfiles
+10:45:32	Processing Component: Templates
+10:45:32	Processing Component: EntityMaps
+10:45:32	Processing Component: EntityRelationships
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Contoso.Plugins.dll
+10:45:32	Processing Component: EntityDataProviders
+10:45:32	
+10:45:32	Unmanaged Pack complete.
+10:45:32	
+10:45:32	CrmSvcUtil Runtime = 00:00:00.4862515

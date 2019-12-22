@@ -12,3 +12,15 @@
 17:43:43	Processing Component: FieldSecurityProfiles
 17:43:43	Processing Component: Templates
 17:43:43	Processing Component: EntityMaps
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{1fac7e2e-0b1c-4b6c-ab92-8af0f92dbdbc}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_challenge.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_fundraiser.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_idea.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_product.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_review.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Other\Relationships\sample_teamproject.xml
+10:45:32	Processing Component: optionsets
+10:45:32	Processing Component: WebResources
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\WebResources\Contoso_\Javascript\TestJavaScript.js.data.xml

@@ -30,3 +30,18 @@
 17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{d5b4a1b2-de4f-4f86-8768-b0730001e7d1}.xml
 17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml
 17:43:43	No change: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml
+10:45:32	Processing Component: Entities
+10:45:32	 - Task
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\Entity.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\card\{5e9725e4-5449-4363-8c1c-5ae71767af34}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{16654191-19ad-48ca-9e46-c4b4fbdad76f}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\main\{b62ce022-cc0f-4c8c-bb29-21948f70dc74}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quick\{81a89014-442c-44ad-9725-4077426a7fee}.xml
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\Entities\Task\FormXml\quickCreate\{a1c8a6dc-8804-4019-9c78-7dbe86560ea1}.xml
+10:45:32	 - Contoso_/Javascript/TestJavaScript.js
+10:45:32	Mapping: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\WebResources\Contoso_\Javascript\TestJavaScript.js to C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\Contoso_\Javascript\TestJavaScript.js
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.Webresources\Contoso_\Javascript\TestJavaScript.js
+10:45:32	Processing Component: SolutionPluginAssemblies
+10:45:32	Reading: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\PluginAssemblies\ContosoPlugins-8669EC24-1718-4BB4-AEE7-6563742694B6\ContosoPlugins.dll.data.xml
+10:45:32	 - Contoso.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=30aeff48e9279e62
+10:45:32	Mapping: C:\Users\ginoj\source\repos\ContosoD365\Contoso.UnmanagedSolution\package\PluginAssemblies\ContosoPlugins-8669EC24-1718-4BB4-AEE7-6563742694B6\ContosoPlugins.dll to C:\Users\ginoj\source\repos\ContosoD365\Contoso.Plugins\bin\Debug\Contoso.Plugins.dll
